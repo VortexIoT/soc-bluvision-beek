@@ -1,0 +1,13 @@
+// Copyright 2020 Silicon Laboratories, Inc.
+//
+//
+
+Executing: bgbuild (/home/blitz/SimplicityStudio_v4/developer/sdks/gecko_sdk_suite/v2.7/protocol/bluetooth/bin/bgbuild)
+Standard output
+ALL OK
+
+Error/Warning output
+WARNING: 2a00 length attribute is 19 but actual value length is 7. 19 will be used.
+WARNING: 00f9 length attribute is 12 but actual value length is 9. 12 will be used.
+
+
